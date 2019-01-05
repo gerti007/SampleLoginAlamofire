@@ -1,0 +1,6 @@
+framework module Pods_AlamofireLoginUITests {
+  umbrella header "Pods-AlamofireLoginUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
